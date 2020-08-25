@@ -11,4 +11,5 @@ I am ALOÏS LECLET, developer fullstack.
 - 👯 I’m looking to collaborate on freelance projects
 
 [https://aloisleclet.fr](https://aloisleclet.fr)
+[cv](https://cv.aloisleclet.fr/cv_developper.html)
 
