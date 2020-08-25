@@ -10,6 +10,7 @@ I am ALOÏS LECLET, developer fullstack.
 - 🌱 I’m currently learning gatsby, flutter/dart
 - 👯 I’m looking to collaborate on freelance projects
 
-[https://aloisleclet.fr](https://aloisleclet.fr)
-[cv](https://cv.aloisleclet.fr/cv_developper.html)
+
+- [https://aloisleclet.fr](https://aloisleclet.fr)
+- [cv](https://cv.aloisleclet.fr/cv_developper.html)
 
