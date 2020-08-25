@@ -2,6 +2,7 @@
 
 <!--
 **aloisleclet/aloisleclet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I am ALOÏS LECLET, developer fullstack.
 
@@ -10,4 +11,4 @@ I am ALOÏS LECLET, developer fullstack.
 - 👯 I’m looking to collaborate on freelance projects
 
 [https://aloisleclet.fr](https://aloisleclet.fr)
--->
+
