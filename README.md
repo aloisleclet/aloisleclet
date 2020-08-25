@@ -6,7 +6,7 @@
 
 I am ALOÏS LECLET, developer fullstack.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on how to link dance and tech
 - 🌱 I’m currently learning gatsby, flutter/dart
 - 👯 I’m looking to collaborate on freelance projects
 
