@@ -12,5 +12,4 @@ I am ALOÏS LECLET, developer fullstack.
 
 
 - [https://aloisleclet.fr](https://aloisleclet.fr)
-- [cv](https://cv.aloisleclet.fr/cv_developper.html)
 
